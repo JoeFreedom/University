@@ -1,10 +1,8 @@
-create table table_attestation_ball
+create table table_attestation_score
 (
-	id int auto_increment,
+	id int auto_increment primary key,
 	id_student int not null,
 	id_attestation_form_subject int not null,
-	ball varchar(20) not null,
-	date date not null,
-	constraint table_attestation_ball_pk
-		primary key (id)
+	score varchar(20) not null check (score != ""),
+	date date not null
 );
