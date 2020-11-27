@@ -1,4 +1,4 @@
-create table table_ball
+create table table_score
 (
     id         int auto_increment
         primary key,
