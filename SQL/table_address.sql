@@ -7,5 +7,5 @@ create table table_address
     building  varchar(10)  not null check (house !=''),
     apartment smallint     not null,
     zip_code  varchar(10) not null check (zip_code !=''),
-    address_Type varchar(50) not null check ( address_Type !='')
+    address_type varchar(50) not null check ( address_type !='')
 );
