@@ -1,12 +1,16 @@
 create table table_subject
 (
-	id int auto_increment,
-	name nvarchar(100) not null check (name <> N''),
-	number_of_hours int not null check (number_of_hours > 0),
-	session int not null check (session >= 1),
-	constraint table_subject_pk
-		primary key (id)
+	id int auto_increment
+		primary key,
+	name varchar(100) not null,
+	hours_of_study int not null,
+	session int not null,
+	id_teacher int not null,
+	constraint table_subject_name_uindex
+		unique (name),
+	constraint table_subject_table_teacher_id_fk
+		foreign key (id_teacher) references table_teacher (id)
 );
 
-create unique index table_subject_name_uindex
-	on table_subject (name);
+ALTER TABLE table_subject
+ADD CONSTRAINT CHK_subject CHECK (name <> N'' AND hours_of_study >0 AND session >0);
