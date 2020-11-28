@@ -4,6 +4,6 @@ create table table_subject_work_program
         primary key,
     id_subject      int not null,
     id_specialty    int not null,
-    number_of_hours int not null,
+    hours_of_study  int not null,
     session         int not null
 );
