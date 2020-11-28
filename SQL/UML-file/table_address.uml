@@ -78,6 +78,10 @@
       <point x="257.9185606060606" y="830.0" />
       <point x="59.66666666666663" y="82.5" />
     </edge>
+    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_type">
+      <point x="0.0" y="-49.5" />
+      <point x="0.0" y="38.5" />
+    </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject_work_program" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject">
       <point x="60.0" y="-71.5" />
       <point x="881.5530303030304" y="620.0" />
@@ -87,10 +91,6 @@
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_teacher">
       <point x="0.0" y="-71.5" />
       <point x="0.0" y="49.5" />
-    </edge>
-    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_type">
-      <point x="0.0" y="-49.5" />
-      <point x="0.0" y="38.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_email">
       <point x="54.0" y="-71.5" />
@@ -141,7 +141,7 @@
       <point x="38.0" y="49.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.4738562091503268" x="1241.4344827586208" y="597.9413793103448" />
+  <settings layout="Hierarchic Group" zoom="0.6411483253588517" x="667.0" y="512.5" />
   <SelectedNodes>
     <node>8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group</node>
   </SelectedNodes>
