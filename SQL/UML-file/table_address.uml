@@ -3,147 +3,150 @@
   <ID>DATABASE</ID>
   <OriginalElement>8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_address</OriginalElement>
   <nodes>
-    <node x="804.9734848484849" y="871.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_mark</node>
-    <node x="864.8030303030304" y="452.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject</node>
-    <node x="204.75000000000006" y="452.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts</node>
-    <node x="108.751893939394" y="645.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student</node>
-    <node x="874.8030303030304" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_teacher</node>
-    <node x="155.67992424242425" y="0.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_person</node>
-    <node x="1125.8049242424242" y="474.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from</node>
-    <node x="1025.8049242424242" y="678.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from_subject</node>
-    <node x="591.8030303030304" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group</node>
-    <node x="530.5530303030304" y="667.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_faculty</node>
-    <node x="992.3049242424242" y="871.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_mark</node>
-    <node x="607.8030303030304" y="474.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty</node>
-    <node x="701.5530303030304" y="656.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject_work_program</node>
-    <node x="18.583333333333258" y="860.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_scholarship</node>
-    <node x="237.00000000000006" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_phone</node>
-    <node x="437.00000000000006" y="259.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_email</node>
-    <node x="47.0" y="193.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_address</node>
-    <node x="1125.8049242424242" y="259.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_type</node>
+    <node x="808.4528985507247" y="871.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_mark</node>
+    <node x="832.9945652173914" y="452.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject</node>
+    <node x="1176.4528985507245" y="678.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_cathedra</node>
+    <node x="89.04166666666663" y="452.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts</node>
+    <node x="842.9945652173914" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_teacher</node>
+    <node x="1089.6666666666665" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group</node>
+    <node x="562.625" y="474.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from</node>
+    <node x="598.625" y="678.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from_subject</node>
+    <node x="1181.4528985507245" y="893.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_faculty</node>
+    <node x="527.5760869565217" y="871.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_mark</node>
+    <node x="1104.6666666666665" y="463.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty</node>
+    <node x="916.4528985507247" y="656.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject_work_program</node>
+    <node x="160.62500000000006" y="860.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_scholarship</node>
+    <node x="163.5" y="248.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_phone</node>
+    <node x="468.5778985507247" y="0.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_person</node>
+    <node x="225.29166666666669" y="645.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student</node>
+    <node x="10.5" y="259.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_email</node>
+    <node x="363.5" y="193.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_address</node>
+    <node x="562.625" y="259.0">8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_type</node>
   </nodes>
   <notes />
   <edges>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_person">
-      <point x="-44.75" y="-82.5" />
-      <point x="153.501893939394" y="620.0" />
-      <point x="36.5" y="620.0" />
-      <point x="36.5" y="168.0" />
-      <point x="184.17992424242425" y="168.0" />
-      <point x="-57.0" y="71.5" />
+      <point x="44.75" y="-82.5" />
+      <point x="359.5416666666667" y="620.0" />
+      <point x="543.0" y="620.0" />
+      <point x="543.0" y="168.0" />
+      <point x="554.0778985507247" y="168.0" />
+      <point x="0.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_teacher" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_person">
       <point x="0.0" y="-49.5" />
-      <point x="942.8030303030304" y="168.0" />
-      <point x="298.17992424242425" y="168.0" />
+      <point x="910.9945652173914" y="168.0" />
+      <point x="611.0778985507247" y="168.0" />
       <point x="57.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_address">
-      <point x="-54.0" y="-71.5" />
-      <point x="222.75000000000006" y="432.0" />
-      <point x="131.5" y="432.0" />
+      <point x="54.0" y="-71.5" />
+      <point x="215.04166666666663" y="432.0" />
+      <point x="448.0" y="432.0" />
       <point x="0.0" y="104.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_phone">
       <point x="18.0" y="-71.5" />
-      <point x="294.75000000000006" y="422.0" />
-      <point x="327.00000000000006" y="422.0" />
+      <point x="179.04166666666663" y="422.0" />
+      <point x="253.5" y="422.0" />
       <point x="0.0" y="49.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts">
-      <point x="44.75" y="-82.5" />
-      <point x="243.001893939394" y="620.0" />
-      <point x="276.75000000000006" y="620.0" />
+      <point x="-44.75" y="-82.5" />
+      <point x="270.0416666666667" y="620.0" />
+      <point x="161.04166666666663" y="620.0" />
       <point x="0.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_mark" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from_subject">
       <point x="56.5" y="-71.5" />
+      <point x="697.0760869565217" y="840.0" />
+      <point x="734.625" y="840.0" />
       <point x="0.0" y="49.5" />
-    </edge>
-    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_faculty" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty">
-      <point x="0.0" y="-60.5" />
-      <point x="606.0530303030304" y="620.0" />
-      <point x="645.8030303030304" y="620.0" />
-      <point x="-38.0" y="49.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_scholarship" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student">
       <point x="0.0" y="-82.5" />
-      <point x="113.08333333333326" y="840.0" />
-      <point x="138.5852272727273" y="840.0" />
-      <point x="-59.666666666666686" y="82.5" />
+      <point x="-59.66666666666663" y="82.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_mark" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student">
       <point x="-56.5" y="-71.5" />
-      <point x="1048.8049242424242" y="830.0" />
-      <point x="257.9185606060606" y="830.0" />
-      <point x="59.66666666666663" y="82.5" />
+      <point x="584.0760869565217" y="840.0" />
+      <point x="314.7916666666667" y="840.0" />
+      <point x="0.0" y="82.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_type">
       <point x="0.0" y="-49.5" />
       <point x="0.0" y="38.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject_work_program" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject">
-      <point x="60.0" y="-71.5" />
-      <point x="881.5530303030304" y="620.0" />
-      <point x="890.8030303030304" y="620.0" />
-      <point x="-52.0" y="71.5" />
+      <point x="-60.0" y="-71.5" />
+      <point x="976.4528985507247" y="620.0" />
+      <point x="962.9945652173914" y="620.0" />
+      <point x="52.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_teacher">
       <point x="0.0" y="-71.5" />
       <point x="0.0" y="49.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_email">
-      <point x="54.0" y="-71.5" />
-      <point x="330.75000000000006" y="432.0" />
-      <point x="503.50000000000006" y="432.0" />
+      <point x="-18.0" y="-71.5" />
+      <point x="143.04166666666663" y="422.0" />
+      <point x="77.0" y="422.0" />
       <point x="0.0" y="38.5" />
     </edge>
-    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group">
+    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_faculty" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_cathedra">
       <point x="0.0" y="-49.5" />
       <point x="0.0" y="49.5" />
     </edge>
+    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group">
+      <point x="0.0" y="-60.5" />
+      <point x="0.0" y="49.5" />
+    </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_mark" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject">
-      <point x="32.49999999999997" y="-71.5" />
-      <point x="902.4734848484849" y="840.0" />
-      <point x="952.0530303030304" y="840.0" />
-      <point x="952.0530303030304" y="620.0" />
-      <point x="942.8030303030304" y="620.0" />
+      <point x="32.5" y="-71.5" />
+      <point x="905.9528985507247" y="620.0" />
+      <point x="910.9945652173914" y="620.0" />
       <point x="0.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_mark" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_student">
       <point x="-32.5" y="-71.5" />
-      <point x="837.4734848484849" y="840.0" />
-      <point x="198.251893939394" y="840.0" />
-      <point x="0.0" y="82.5" />
+      <point x="840.9528985507247" y="830.0" />
+      <point x="374.4583333333333" y="830.0" />
+      <point x="59.66666666666663" y="82.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_contacts" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_person">
-      <point x="-18.0" y="-71.5" />
-      <point x="258.75000000000006" y="422.0" />
-      <point x="226.50000000000006" y="422.0" />
-      <point x="226.50000000000006" y="168.0" />
-      <point x="241.17992424242425" y="168.0" />
-      <point x="0.0" y="71.5" />
+      <point x="-54.0" y="-71.5" />
+      <point x="107.04166666666663" y="432.0" />
+      <point x="0.0" y="432.0" />
+      <point x="0.0" y="168.0" />
+      <point x="497.0778985507247" y="168.0" />
+      <point x="-57.0" y="71.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from_subject" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from">
-      <point x="68.0" y="-49.5" />
+      <point x="-68.0" y="-49.5" />
       <point x="0.0" y="49.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_attestation_from_subject" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject">
-      <point x="-68.0" y="-49.5" />
-      <point x="1093.8049242424242" y="620.0" />
-      <point x="994.8030303030304" y="620.0" />
-      <point x="52.0" y="71.5" />
+      <point x="68.0" y="-49.5" />
+      <point x="802.625" y="620.0" />
+      <point x="858.9945652173914" y="620.0" />
+      <point x="-52.0" y="71.5" />
+    </edge>
+    <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_cathedra" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty">
+      <point x="0.0" y="-49.5" />
+      <point x="1269.9528985507245" y="620.0" />
+      <point x="1220.1666666666665" y="620.0" />
+      <point x="38.5" y="60.5" />
     </edge>
     <edge source="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_subject_work_program" target="8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_specialty">
-      <point x="-60.0" y="-71.5" />
-      <point x="761.5530303030304" y="620.0" />
-      <point x="721.8030303030304" y="620.0" />
-      <point x="38.0" y="49.5" />
+      <point x="60.0" y="-71.5" />
+      <point x="1096.4528985507247" y="620.0" />
+      <point x="1143.1666666666665" y="620.0" />
+      <point x="-38.5" y="60.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.6411483253588517" x="667.0" y="512.5" />
+  <settings layout="Hierarchic Group" zoom="0.6411483253588517" x="682.0" y="512.5" />
   <SelectedNodes>
-    <node>8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_group</node>
+    <node>8958bfd3-7bb6-4ace-8a13-19122b6e31fc.TABLE:host1323541_university.table_address</node>
   </SelectedNodes>
   <Categories>
     <Category>Key columns</Category>
