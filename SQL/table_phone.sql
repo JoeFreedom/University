@@ -1,6 +1,6 @@
 create table table_phone
 (
 	id int auto_increment primary key,
-	type varchar(20) not null,
-	phone nvarchar(18) not null unique check (phone !='')
+	phone_type   varchar(20) not null,
+	phone_number varchar(18) not null unique check (phone !='')
 );
